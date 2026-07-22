@@ -6,7 +6,7 @@
   <a href="https://jaiswalbuilds.github.io"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-> **Forward-Deployed AI Engineer · ML Systems Architect · Agentic AI Specialist · Founder of [Neurals.in](https://neurals.in)**
+> **Forward-Deployed AI Engineer · ML Systems Architect · Agentic AI Specialist · Founding Engineer of [Neurals.in](https://neurals.in)**
 
 Welcome to **JaiswalBuilds**, a dedicated production lab for next-generation AI agents, high-performance RAG architectures, and autonomous machine learning systems designed for cloud-scale enterprise deployment.
 
