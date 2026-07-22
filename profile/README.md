@@ -37,6 +37,16 @@ I have built **10 specialized AI agents** that demonstrate the full capabilities
 *   **Observability**: MLflow, Custom Drift Detection
 *   **Production UI**: Streamlit, React, Tailwind CSS
 
+## 📊 GitHub Contributions (Last 1 Year)
+Here is my daily coding activity over the past year:
+
+[![Manish Jaiswal's GitHub contributions](https://ghchart.rshah.org/3b82f6/jaiswalwrites)](https://github.com/jaiswalwrites)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiswalwrites&show_icons=true&theme=react&hide_border=true" alt="Manish Jaiswal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalwrites&theme=react&hide_border=true" alt="Manish Jaiswal's Streak Stats" />
+</p>
+
 ---
 
 ## 👨‍💻 About Manish
@@ -50,3 +60,4 @@ I'm an AI Engineer with **10+ years** of experience in building production ML sy
 ---
 
 *"Building the future, one agentic workflow at a time."*
+
