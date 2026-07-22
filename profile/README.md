@@ -69,7 +69,7 @@ A showcase of **10 specialized AI agents** illustrating complex orchestration pa
 [![Manish Jaiswal's GitHub contributions](https://ghchart.rshah.org/3b82f6/jaiswalwrites)](https://github.com/jaiswalwrites)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiswalwrites&show_icons=true&theme=react&hide_border=true" alt="Manish Jaiswal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiswalwrites&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="Manish Jaiswal's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalwrites&theme=react&hide_border=true" alt="Manish Jaiswal's Streak Stats" />
 </p>
 
